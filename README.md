@@ -10,7 +10,7 @@ The system also includes basic academic and financial calculations, such as calc
 
 ## 🖼️ Screenshot
 
-![University Management System](<img width="2256" height="1447" alt="image" src="https://github.com/user-attachments/assets/47cf4d40-cfe0-4cfe-a43a-9cc7dc47232c" />
+![University Management System](https://github.com/aminscodes/university-management-system/blob/main/image.png.jpeg?raw=true
 )
 
 ## ✨ Features
