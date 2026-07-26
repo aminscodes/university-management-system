@@ -27,7 +27,6 @@ The system also includes basic academic and financial calculations, such as calc
 
 - Java
 - Java Swing
-- Object-Oriented Programming (OOP)
 
 ## 🔮 Future Improvements
 
