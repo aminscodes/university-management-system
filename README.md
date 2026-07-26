@@ -8,6 +8,11 @@ This project is a simple university management system that manages basic informa
 
 The system also includes basic academic and financial calculations, such as calculating a student's GPA based on course grades and credits, as well as calculating a teacher's income based on the number of teaching credits.
 
+## 🖼️ Screenshot
+
+![University Management System](<img width="2256" height="1447" alt="image" src="https://github.com/user-attachments/assets/47cf4d40-cfe0-4cfe-a43a-9cc7dc47232c" />
+)
+
 ## ✨ Features
 
 - Add, edit, and delete students
